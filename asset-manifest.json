@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/big-data-app/static/css/main.6b179737.css",
-    "main.js": "/big-data-app/static/js/main.da1b0e0b.js",
+    "main.js": "/big-data-app/static/js/main.ce96b13d.js",
     "static/js/453.fd475fc2.chunk.js": "/big-data-app/static/js/453.fd475fc2.chunk.js",
     "index.html": "/big-data-app/index.html",
     "main.6b179737.css.map": "/big-data-app/static/css/main.6b179737.css.map",
-    "main.da1b0e0b.js.map": "/big-data-app/static/js/main.da1b0e0b.js.map",
+    "main.ce96b13d.js.map": "/big-data-app/static/js/main.ce96b13d.js.map",
     "453.fd475fc2.chunk.js.map": "/big-data-app/static/js/453.fd475fc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b179737.css",
-    "static/js/main.da1b0e0b.js"
+    "static/js/main.ce96b13d.js"
   ]
 }
