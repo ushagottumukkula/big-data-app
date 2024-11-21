@@ -9,10 +9,10 @@ function App() {
       <nav>
         <ul>
           <li>
-            <Link to="/">APP</Link>
+            <Link to="/big-data-app">APP</Link>
           </li>
           <li>
-            <Link to="/infinitescroll">Infinite Scrolling</Link>
+            <Link to="/big-data-app/infinitescroll">Infinite Scrolling</Link>
           </li>
           
         </ul>
