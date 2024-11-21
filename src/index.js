@@ -14,8 +14,8 @@ root.render(
   <BrowserRouter>
       <Routes>
       
-          <Route path="/infinitescroll" element={<InfiniteScroll />} />
-          <Route path="/" element={<App />}>
+          <Route path="/big-data-app/infinitescroll" element={<InfiniteScroll />} />
+          <Route path="/big-data-app" element={<App />}>
        
         </Route>
       </Routes>
